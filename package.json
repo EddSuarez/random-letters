@@ -1,0 +1,23 @@
+{
+  "name": "random-letters",
+  "version": "1.0.0",
+  "description": "Tiny module to generate random letters with specific length.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EddSuarez/random-letters.git"
+  },
+  "keywords": [
+    "random",
+    "letters"
+  ],
+  "author": "Edd Suárez <eddsuarez89@gmail.com> (https://github.com/eddsuarez)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EddSuarez/random-letters/issues"
+  },
+  "homepage": "https://github.com/EddSuarez/random-letters#readme"
+}
